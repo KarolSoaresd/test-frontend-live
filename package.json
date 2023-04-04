@@ -1,0 +1,17 @@
+{
+  "name": "test-frontend-live",
+  "version": "1.0.0",
+  "description": "Repositorio de testes aula front end mentorama",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Karoline Santos",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.5.0"
+  },
+  "devDependencies": {
+    "mochawesome": "^7.1.3"
+  }
+}
